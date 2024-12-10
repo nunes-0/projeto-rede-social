@@ -55,7 +55,7 @@ box-sizing: border-box;  /*a borda passa a ser parte do objeto e ao passar o cur
   }
   section#redes-sociais img:hover {
     border: 2px solid rgba(255, 255, 255, 0.603);
-    transform: translate(-3px, -3px);   /* faz com que ele levante um pou o para esquerda e para direita  */
+    transform: translate(-3px, -3px);   /* faz com que ele levante um pouco para esquerda e para direita  */
     box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.658);
    transition: transform .4s  /*cria o tempo que tudo ira se desenvolver ao selecionar com o cursor           */
   
